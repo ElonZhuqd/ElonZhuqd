@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Elon, and I'm interested in all things DATA!
 
 - 📫 How to reach me: https://www.linkedin.com/in/elonzhu/
 
