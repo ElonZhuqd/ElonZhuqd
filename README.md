@@ -2,8 +2,6 @@
 
 My name is Elon, and I'm interested in all things DATA!
 
-- 📫 How to reach me: https://www.linkedin.com/in/elonzhu/
-
 <!--
 **ElonZhuqd/ElonZhuqd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
